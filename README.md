@@ -1,7 +1,7 @@
 # Waffle Blueprint
 - Waffle은 기존의 tx_model의 소스코드를 재활용하여 개발상의 문제를 해결하기 위한 프로젝트 입니다.
 - 연구자들에게는 편리한 연구 플랫폼을 TX 개발자에게는 독립적인 학습 플랫폼을 제공합니다.
-- <img src="imgs/architecture_new.jpg" />
+- <img src="imgs/arch.jpg" />
 
 # Components
 ## waffle_dough
