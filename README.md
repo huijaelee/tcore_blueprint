@@ -1,6 +1,7 @@
 # Tcore Blueprint
 - tcore는 training core를 의미하며 기존의 tx_model을 재구성합니다.
 - 연구자들에게는 편리한 연구 플랫폼을 TX 개발자에게는 독립적인 학습 플랫폼을 제공합니다.
+- <img src="imgs/architecture.jpg" />
 
 # Components
 ## tcore_ingredient
@@ -54,6 +55,7 @@
 ## tcore_factory
 - 개요
     - tcore 기능들을 배포합니다.
+    - training 등의 프로세스를 관리합니다.
 - 구성요소
     - REST API
         - tcore를 사용한 training 등의 기능을 REST API 형태로 제공합니다.
